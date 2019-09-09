@@ -1,4 +1,4 @@
-# RTPandRTSP
+# RTP and RTSP - Made in 2019
 School coding task. Displaying the work of RTP and RTSP.
 
 I have to point out that not all of this code is made by me. 
